@@ -4,6 +4,14 @@ body {
 
 .container {
     background-color: white;
+    margin: auto;
+    width: 72.55%;
+}
+
+.fill {
+    background-color: white;
+    margin: auto;
+    width: 100%;
 }
 
 .navbar {
@@ -16,7 +24,7 @@ body {
     font-size: 16px;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    /* padding: 14px 16px; */
     text-decoration: none;
 }
 
@@ -30,7 +38,7 @@ body {
     border: none;
     outline: none;
     color: white;
-    padding: 14px 16px;
+    /* padding: 14px 16px; */
     background-color: inherit;
     font: inherit;
     margin: 0;
