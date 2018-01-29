@@ -6,6 +6,10 @@ body {
     background-color: white;
 }
 
+img {
+    max-width: 100%;
+}
+
 .navbar {
     background-color: lightgray;
     font-family: Arial;
