@@ -28,7 +28,6 @@ img {
     font-size: 16px;
     color: white;
     text-align: center;
-    /* padding: 14px 16px; */
     text-decoration: none;
 }
 
@@ -42,7 +41,6 @@ img {
     border: none;
     outline: none;
     color: white;
-    /* padding: 14px 16px; */
     background-color: inherit;
     font: inherit;
     margin: 0;
@@ -50,7 +48,7 @@ img {
 
 .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: rgb(255, 0, 191);
-}
+} 
 
 .dropdown-content {
     display: none;
